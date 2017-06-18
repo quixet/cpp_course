@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Cam_Course" Database="Cam_Course.tags">
+  <Project Name="PCA_analysis" Path="PCA_analysis/PCA_analysis.project" Active="Yes"/>
+  <Project Name="Game_of_Life" Path="Game_of_Life/Game_of_Life.project"/>
+  <Project Name="Monte_Carlo" Path="Monte_Carlo/Monte_Carlo.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="PCA_analysis" ConfigName="Debug"/>
+      <Project Name="Game_of_Life" ConfigName="Debug"/>
+      <Project Name="Monte_Carlo" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="PCA_analysis" ConfigName="Release"/>
+      <Project Name="Game_of_Life" ConfigName="Release"/>
+      <Project Name="Monte_Carlo" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
